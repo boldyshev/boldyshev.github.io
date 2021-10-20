@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Обучение с подкреплением | Болдышев</title>
+    <link>https://boldyshev.github.io/ru/tag/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC/</link>
+      <atom:link href="https://boldyshev.github.io/ru/tag/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC/index.xml" rel="self" type="application/rss+xml" />
+    <description>Обучение с подкреплением</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boldyshev.github.io/media/icon_hud4553b4b3fd4e6af0fc68be051dd7568_20144_512x512_fill_lanczos_center_3.png</url>
+      <title>Обучение с подкреплением</title>
+      <link>https://boldyshev.github.io/ru/tag/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC/</link>
+    </image>
+    
+    <item>
+      <title>Sutton and Barto - Reinforcement Learning: An Introduction</title>
+      <link>https://boldyshev.github.io/ru/project/sutton/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://boldyshev.github.io/ru/project/sutton/</guid>
+      <description>&lt;p&gt;Программная реализация экспериментов (рисунки) и задач на программирование из книги на Python&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

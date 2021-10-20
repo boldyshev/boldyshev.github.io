@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | Boldyshev</title>
+    <link>https://boldyshev.github.io/tag/reinforcement-learning/</link>
+      <atom:link href="https://boldyshev.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boldyshev.github.io/media/icon_hud4553b4b3fd4e6af0fc68be051dd7568_20144_512x512_fill_lanczos_center_3.png</url>
+      <title>Reinforcement Learning</title>
+      <link>https://boldyshev.github.io/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Sutton and Barto - Reinforcement Learning: An Introduction</title>
+      <link>https://boldyshev.github.io/project/sutton/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://boldyshev.github.io/project/sutton/</guid>
+      <description>&lt;p&gt;Python implementation of example experiments (figures) and programming exercises from the book&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Boldyshev</title>
+    <link>https://boldyshev.github.io/ru/authors/</link>
+      <atom:link href="https://boldyshev.github.io/ru/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language>
+    <image>
+      <url>https://boldyshev.github.io/media/icon_hud4553b4b3fd4e6af0fc68be051dd7568_20144_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://boldyshev.github.io/ru/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

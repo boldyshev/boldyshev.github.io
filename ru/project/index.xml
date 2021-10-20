@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Болдышев</title>
+    <link>https://boldyshev.github.io/ru/project/</link>
+      <atom:link href="https://boldyshev.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boldyshev.github.io/media/icon_hud4553b4b3fd4e6af0fc68be051dd7568_20144_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://boldyshev.github.io/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Sutton and Barto - Reinforcement Learning: An Introduction</title>
+      <link>https://boldyshev.github.io/ru/project/sutton/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://boldyshev.github.io/ru/project/sutton/</guid>
+      <description>&lt;p&gt;Программная реализация экспериментов (рисунки) и задач на программирование из книги на Python&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Асинхронная модель мультитрансмиттерных нейронных взаимодействий</title>
+      <link>https://boldyshev.github.io/ru/project/asynch/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://boldyshev.github.io/ru/project/asynch/</guid>
+      <description>&lt;p&gt;Совместный трехлетний проект &lt;a href=&#34;https://www.ipu.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;лаборатории №11 ИПУ РАН&lt;/a&gt; и &lt;a href=&#34;http://www.idbras.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;лаборатории Нейробиологии развития ИБР РАН&lt;/a&gt; по созданию математической модели межнейронных взаимодействий в живых организмах. Модель описывает ритмические активности простых нервных систем, в основе которых лежит механизм трансмиттер-рецепторной специфичности.&lt;/p&gt;
+&lt;p&gt;Основные публикации по результатам проекта:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Bazenkov, N. I., Boldyshev, B. A., Dyakonova, V., &amp;amp; Kuznetsov, O. P. (2020). Simulating Small Neural Circuits with a Discrete Computational Model. Biological cybernetics, 114(3).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Кузнецов, О. П., Базенков, Н., Болдышев, Б. А., Жилякова, Л. Ю., Куливец, С. Г., &amp;amp; Чистопольский, И. А. (2018). Асинхронная дискретная модель химических взаимодействий в простых нейронных системах. Искусственный интеллект и принятие решений, (2), 3-20.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

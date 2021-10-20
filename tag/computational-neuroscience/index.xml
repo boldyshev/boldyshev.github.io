@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Neuroscience | Boldyshev</title>
+    <link>https://boldyshev.github.io/tag/computational-neuroscience/</link>
+      <atom:link href="https://boldyshev.github.io/tag/computational-neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Neuroscience</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boldyshev.github.io/media/icon_hud4553b4b3fd4e6af0fc68be051dd7568_20144_512x512_fill_lanczos_center_3.png</url>
+      <title>Computational Neuroscience</title>
+      <link>https://boldyshev.github.io/tag/computational-neuroscience/</link>
+    </image>
+    
+    <item>
+      <title>An Asynchronous Model of Multitransmitter Neural Interactions</title>
+      <link>https://boldyshev.github.io/project/asynch/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://boldyshev.github.io/project/asynch/</guid>
+      <description>&lt;p&gt;A joint three-year project [laboratories no. 11 of the IPU RAS] (&lt;a href=&#34;https://www.ipu.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipu.ru/&lt;/a&gt;) and [laboratories of developmental neurobiology of the IBR RAS] (&lt;a href=&#34;http://www.idbras.ru/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.idbras.ru/&lt;/a&gt;) to create a mathematical model of interneural interactions in living organisms. The model describes the rhythmic activities of simple nervous systems, which are based on the mechanism of transmitter-receptor specificity.&lt;/p&gt;
+&lt;p&gt;Main publications on the results of the project:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Bazenkov, N. I., Boldyshev, B. A., Dyakonova, V., &amp;amp; Kuznetsov, O. P. (2020). Simulating Small Neural Circuits with a Discrete Computational Model. Biological cybernetics, 114(3).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kuznetsov, O. P., Bazenkov, N. I., Boldyshev, B. A., Zhilyakova, L. Y., Kulivets, S. G., &amp;amp; Chistopolsky, I. A. (2018). An asynchronous discrete model of chemical interactions in simple neuronal systems. Scientific and Technical Information Processing, 45(6), 375-389.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
